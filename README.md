@@ -15,6 +15,18 @@
 - **Correlación entre x e y**<br>
 - **Linea de regresión lineal y=mx+b**<br>
 
+A continuación se presenta una imagen con cada uno de los cuartetos, así como con sus respectivas estadísticas descriptivas.
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/C4D12AQGR5GeTHjCmqg/article-inline_image-shrink_1000_1488/0/1651977022484?e=2147483647&v=beta&t=mnnWdVOJugSwxfOev8bUFD3gWj187RcKdVwMwUf7p-0" alt="company_logo">
+</p>
+
+<p align="center" style="font-size: 1px;">
+  Imagen tomada de: https://es.linkedin.com/pulse/el-cuarteto-de-anscombe-ryszard-frank?trk=article-ssr-frontend-pulse_more-articles_related-content-card
+</p>
+
+Como se puede observar los primeros tres cuartetos tiene las mismas coordenadas en **x**, pero en **y** son diferentes, dando una distribución muy distinta, en cambio con el cuarto cuarteto tenemos valores totalmente distintos en **x,y** al resto de conjunto de datos. A pesar de esto, se puede apreciar que las estadísticas descriptivas son relativamente iguales, tales como la **variana x** es de 11 en todos los conjuntos y en **y** es de aproximadamente 4.12 en todos; de igual manera se aprecia la gran similitud con el resto de medidas. 
+
+
 <p align="center">
   <img src="https://www.datanalytics.com/wp-uploads/2013/08/500px-Anscombes_quartet_3.svg_.png" alt="company_logo">
 </p>

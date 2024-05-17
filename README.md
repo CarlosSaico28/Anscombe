@@ -24,9 +24,18 @@ A continuación se presenta una imagen con cada uno de los cuartetos, así como 
   Imagen tomada de: https://es.linkedin.com/pulse/el-cuarteto-de-anscombe-ryszard-frank?trk=article-ssr-frontend-pulse_more-articles_related-content-card
 </p>
 
-Como se puede observar los primeros tres cuartetos tiene las mismas coordenadas en **x**, pero en **y** son diferentes, dando una distribución muy distinta, en cambio con el cuarto cuarteto tenemos valores totalmente distintos en **x,y** al resto de conjunto de datos. A pesar de esto, se puede apreciar que las estadísticas descriptivas son relativamente iguales, tales como la **variana x** es de 11 en todos los conjuntos y en **y** es de aproximadamente 4.12 en todos; de igual manera se aprecia la gran similitud con el resto de medidas. 
+<p align="justify">Como se puede observar los primeros tres cuartetos tiene las mismas coordenadas en <strong>x</strong>, pero en <strong>y</strong> son diferentes, dando una distribución muy distinta, en cambio con el cuarto cuarteto tenemos valores totalmente distintos en <strong>x,y</strong> al resto de conjunto de datos. A pesar de esto, se puede apreciar que las estadísticas descriptivas son relativamente iguales, tales como la <strong>variana x</strong> es de 11 en todos los conjuntos y en <strong>y</strong> es de aproximadamente 4.12 en todos; de igual manera se aprecia la gran similitud con el resto de medidas.</p>
 
+
+Una vez conocido el contexto del conjunto de datos, podemos apreciar las graficas generadas por los conjuntos de datos:
 
 <p align="center">
   <img src="https://www.datanalytics.com/wp-uploads/2013/08/500px-Anscombes_quartet_3.svg_.png" alt="company_logo">
 </p>
+<p align="center" style="font-size: 1px;">
+  Imagen tomada de: https://www.datanalytics.com/2013/08/30/el-cuarteto-de-anscombe/
+</p>
+
+<p align="justify"> Como bien se observa en la gráfica, los cuatro conjuntos muestran una disperción totalmente distinta a pesar de la similutd de sus medidas. </p>
+
+<p align="justify"> El cuarteto de Anscombe destaca la importancia de no confiar únicamente en los estadísticos descriptivos para el análisis de datos, ya que apreciar la visualización de los datos puede revelar patrones, tendencias y anomalías que no son evidentes a partir de los cálculos estadísticos. Es por ello que Anscombe utilizó estos conjuntos de datos para subrayar que la misma estadística puede describir distribuciones de datos muy diferentes y para promover la práctica de la visualización de datos como una parte fundamental del análisis de datos. </p>

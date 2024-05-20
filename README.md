@@ -7,13 +7,13 @@
 **Estudiante:** Carlos Fernando Saico Guartán
 
 <h2 align="center"> Cuarteto de Anscombe</h1>
-<p align="justify">Al hablar del cuarteto de Anscombe, hace referencia a "un cuarteto de conjuntos de datos creados para remarcar la importancia de las graficas en el análisis estadístico" Juárez (2022). Fue denominado así por el estadístico Francis Ascombe  en 1973.</p>
+<p align="justify">Al hablar del cuarteto de Anscombe, hace referencia a "un cuarteto de conjuntos de datos creados para remarcar la importancia de las gráficas en el análisis estadístico" Juárez (2022). Fue denominado así por el estadístico Francis Ascombe  en 1973.</p>
 <p align="justify">Este cuarteto contiene cuatro grupos, en donde cada grupo contiene once puntos en las coordenadas (x,y), las cuales contienen propiedades estadísticas idénticas; esta son:</p>
 
-- **Promedio de x,y** <br>
-- **Varianza de x,y**<br>
+- **Promedio de x, y** <br>
+- **Varianza de x, y**<br>
 - **Correlación entre x e y**<br>
-- **Linea de regresión lineal y=mx+b**<br>
+- **Línea de regresión lineal y=mx+b**<br>
 
 A continuación se presenta una imagen con cada uno de los cuartetos, así como con sus respectivas estadísticas descriptivas.
 <p align="center">
